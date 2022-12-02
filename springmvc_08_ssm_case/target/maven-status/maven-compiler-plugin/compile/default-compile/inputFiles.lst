@@ -1,0 +1,10 @@
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/domain/Book.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/service/BookService.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/dao/BookDao.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/config/SpringMvcConfig.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/config/SpringConfig.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/controller/BookController.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/service/impl/BookServiceImpl.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/config/JdbcConfig.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/config/ServletConfig.java
+/home/river/Code/Java/githubProjects/springmvc-learning/springmvc_08_ssm_case/src/main/java/com/itheima/config/MyBatisConfig.java
