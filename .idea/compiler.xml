@@ -11,6 +11,7 @@
         <module name="springmvc_01_quickstart" />
         <module name="springmvc_03_request_mapping" />
         <module name="springmvc_04_request_param" />
+        <module name="springmvc_06_rest" />
       </profile>
     </annotationProcessing>
   </component>
