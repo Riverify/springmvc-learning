@@ -11,6 +11,8 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc_07_rest_case" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_08_ssm_backup" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc_08_ssm_case" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_09_result" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_09_result" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -24,6 +26,8 @@
         <option value="$PROJECT_DIR$/springmvc_07_rest_case/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc_08_ssm/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc_08_ssm_case/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_09_rresult/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_09_result/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
